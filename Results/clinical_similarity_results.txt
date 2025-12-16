@@ -1,0 +1,137 @@
+=== QUERY ===
+A 58-year-old male with long-standing alcohol use presents with progressive abdominal distension, jaundice, and right upper quadrant pain. Examination shows ascites, spider angiomas, and hepatomegaly. Laboratory studies reveal elevated AST and ALT, hyperbilirubinemia, and prolonged INR. CT imaging demonstrates a nodular liver with portal hypertension consistent with cirrhosis.
+
+=== TF-IDF RESULTS ===
+
+Title: Trapped vessel of abdominal pain with hepatomegaly: A case report
+Label: liver
+Score: 0.2690
+Full Text:
+A 49-year-old female was referred for further evaluation of hepatomegaly, abdominal pain, and thrombocytopenia. On interview, she endorsed a several year history of right upper quadrant abdominal pain and very mild dyspnea with exertion. She reported that the abdominal discomfort was worse in a sitting position. At the time of initial evaluation she was feeling well with no symptoms of jaundice, pruritus, abdominal pain, nausea, vomiting, edema, or ascites. She also reported no constitutional symptoms.
+Past medical history was notable for a 10-year history of mild thrombocytopenia (platelet count 90000-130000) of unclear etiology with negative laboratory workup. Past surgical history was remarkable for an enlarged and nodular appearing liver observed during laparoscopic cholecystectomy performed one year prior due to the same symptoms. The patient has been followed by a hematologist as an outpatient, and a recent liver spleen single photon emission computed tomography scan had confirmed hepatomegaly without splenomegaly. Abdominal ultrasound characterized the liver as 18.1 cm in size with no evidence of cirrhosis or portal hypertension. Patent vasculature was reported throughout with normal hepatopedal flow. The patient had also previously undergone a computer tomography-guided liver biopsy, which showed mild perivascular and pericellular fibrosis but no evidence of advanced fibrosis or cirrhosis.
+Physical examination revealed hepatomegaly 4 cm below the costal margin but was otherwise unremarkable. Initial labs included a complete blood count (white count: 4.6, hemoglobin: 13.5, platelets: 112000), comprehensive metabolic panel (sodium: 141, potassium: 3.8, urea nitrogen: 11, creatinine: 0.8, alkaline phosphatase: 51, total protein: 7.3, aspartate aminotransferase: 30, and alanine aminotransferase: 29), and coagulation panel (international normalized ratio: 1.0). Additional workup revealed a ferritin of 28. Antimitochondrial antibody and actin IgG were negative. Ceruloplasmin level was 32. Patient also tested positive for antinuclear antibody titer (1:80, diffuse pattern) and epstein-barr virus IgG. An elevated transient elastography score of 9.6 was also noted.
+Due to concern for early cirrhosis in the setting of thrombocytopenia and an elevated transient elastography score, the patient was advised to pursue a healthy lifestyle and abstain from alcohol. A magnetic resonance venography of the abdomen showed no evidence of thrombosis or obstruction.
+At this point in time the patient reported worsening, intermittent, epigastric abdominal discomfort that radiated to the right upper quadrant of her abdomen, often waking her up at night and only improved with standing upright or walking. She occasionally felt nauseous but otherwise reported no jaundice, pruritus, edema, ascites, chest pain, or dyspnea. Physical examination showed a positive hepatojugular reflux, consistent with hepatic congestion. The patient was evaluated by a cardiologist, and a transthoracic echocardiogram showed pericardial thickening but no evidence of constrictive pericarditis or systolic or diastolic dysfunction.
+The patient then underwent a transjugular liver biopsy with intravenous ultrasound and pressure measurements, which showed an elevated central venous pressure at 13-15 mmHg, wedged right hepatic vein pressure with occlusion balloon measuring 16-17 mmHg, and a dilated IVC of 3 cm cephalad to the patent veins prior to reentry into the right atrium. Significant respiratory variation involving near-collapse of the retrohepatic IVC at end-expiration was noted. There was question of intraluminal narrowing of the retrohepatic IVC down to approximately 10-15 mm, which had significantly improved upon Valsalva maneuver. Right heart catheterization showed hepatic congestion with normal intracardiac and pulmonary artery pressures.
+A multidisciplinary conference among the hepatology, vascular surgery, and cardiology services was held. It was suspected that the diaphragm, via the diaphragmatic hiatus through which the IVC was passing, was causing extrinsic compression of the vessel, thereby eliciting symptoms of epigastric and right upper quadrant pain. Repeat transient elastography was still elevated and the patient underwent an exploratory laparotomy with IVC venolysis and division of the diaphragmatic constriction. After the above intervention, resolution of previously identified constriction was noted via repeat venogram (Figures and ) and intravascular ultrasound.
+Intraoperative liver biopsy revealed sinusoidal congestion with dilatation in the perivenular areas, features consistent with extrahepatic venous outflow obstruction. The patient recovered remarkably well from the laparotomy. The available pre- and post-venolysis labs are presented in Table . At her four week postoperative follow up visit, she reported resolution of her abdominal discomfort and complete ability to perform her activities of daily living without the use of any pain medications. Unfortunately, follow-up liver enzymes were unable to be obtained due to losing her health insurance.
+------------------------------------------------------------
+
+Title: HEPATOCELLULAR CARCINOMA IN A NON-CIRRHOTIC PATIENT WITH SUSTAINED
+VIROLOGICAL RESPONSE AFTER HEPATITIS C TREATMENT
+Label: liver
+Score: 0.2313
+Full Text:
+A Caucasian fifty-year-old male had HCV infection diagnosis in routine exams in 2007.
+Further evaluation showed a genotype 3a, with a viral load of 156.789 IU/mL by HCV-RNA
+quantitative PCR (real time - polymerase chain reaction, reference value < 12 UI/mL)
+, baseline gamma-glutamyl transferase (gGT) levels of 90 U/L (normal value: 8-61 U/L)
+and elevated aminotransferase levels - serum alanine aminotransferase (ALT) 110 U/L
+(normal value: 7-56 U/L) and aspartate aminotransferase (AST) 192 (normal value: 5-40
+U/L). The additional laboratory exams showed normal liver function markers (albumin,
+bilirubin and prothrombin), negative serum markers for HBV, absence of abnormalities in
+blood glucose values and normal hematologic counts. The physical examination revealed a
+eutrophic patient and no signs of chronic liver disease. The abdominal ultrasound (US)
+was normal and without signs of advanced chronic liver disease or portal hypertension.
+There were no reports of comorbidities like diabetes, obesity, other infections, or
+alcohol abuse. Liver biopsy was performed and considered representative. A total of two
+fragments and 11 portal tracts were analyzed; the length and width of the greatest
+fragment was 1.0 x 0.3 cm, respectively. This biopsy showed chronic hepatitis with
+intense interface activity and a few fibrous septa (- A and B), classified as Metavir
+A3-F2. There was no hepatic steatosis or other relevant findings, like siderosis, small
+cell change, or even dysplasia. As soon as possible, he began the treatment with pegIFN
+and RBV for six months, achieving SVR and normalizing ALT and AST. He remained with
+negative HCV-RNA evaluated by real-time PCR, normal aminotransferases, and asymptomatic
+for two years, when nonspecific abdominal pain appeared, without other symptoms or alarm
+signals. A new abdominal US showed portal vein thrombosis. Thrombophilia was ruled out,
+and an abdominal CT scan was performed. Surprisingly, it demonstrated a portal vein
+thrombosis with arterial enhancement, associated with nonspecific hypodense nodules in
+the right hepatic lobe (). The magnetic
+resonance imaging evidenced the same characteristics of portal thrombosis, besides
+several nodular images of different sizes, the largest one with 1.8 cm, without typical
+vascular pattern. The alpha-fetoprotein level
+was 4.5U/L. We decided to do a tomography to guide a biopsy of the lesion in the right
+lobe and a biopsy away of the lesion, in the left hepatic lobe. The biopsy evidenced a
+moderately differentiated HCC with trabecular pattern ( - C and D). There was no vessel or stromal invasion documented in the
+sample. The non-tumorous liver tissue remained without evidence of cirrhosis - Metavir
+A1-F1 ( - E and F). Further to this, we
+performed immunohistochemistry to confirm the histogenesis of this neoplasia, that
+showed positivity for typical antibodies related to hepatocellular carcinoma which were hepatocyte-specific antigen (HSA) and
+canalicular staining of: pCEA, CD10 and Villin ( - G and H). These features, associated with the presence of vascularization
+in the portal thrombus, led to the conclusion that the portal thrombosis corresponded to
+macrovascular tumor invasion and Sorafenib was prescribed. Despite this, the patient
+developed jaundice, signs of portal hypertension, with ascites and variceal bleeding,
+progressing to death in four months.
+------------------------------------------------------------
+
+Title: A Rare Cause of Liver Cirrhosis and Gastritis: Primary Gastrointestinal Amyloidosis in a Patient With Multiple Myeloma
+Label: heart
+Score: 0.2269
+Full Text:
+A 65-year-old male with a 25-year history of chronic alcoholism presented to the emergency department for a two-week history of non-radiating right upper quadrant abdominal pain associated with pruritus, nausea, coffee-ground emesis, and clay-colored stools. He also reported weakness, fatigue and a 10-pound unintentional weight loss over four months. The exam was notable for icteric sclera, right upper quadrant abdominal tenderness, ascites, and hepatomegaly. Initial workup revealed new-onset unexplained elevated liver enzyme (aspartate transaminase [AST] 85 U/L, alanine transaminase [ALT] 32 U/L, total bilirubin 3.4 mg/dL, alkaline phosphatase [ALP] 563 U/L).
+Abdominal ultrasound was significant for hepatomegaly with perihepatic ascites. The computerized tomography (CT) scan revealed diffuse liver cirrhosis, periportal lymphadenopathy, and stigmata of portal hypertension including hepatosplenomegaly, intra-abdominal ascites, and varices (Figure ).
+Esophagogastroduodenoscopy with endoscopic ultrasound (EGD with EUS) was performed, which showed gastritis and enlarged porta hepatis, which was ultimately biopsied and sent for cytology and pathology (Figure ). Given the unexplained elevation of the liver enzymes, patient underwent liver biopsy which revealed extracellular amyloid deposition in peri-sinusoidal spaces consistent with amyloidosis.
+This finding prompted further workup with a transesophageal echocardiogram which raised suspicion for cardiac involvement with amyloid deposit (Figure ). The patient declined an endo-myocardial biopsy, precluding a definitive diagnosis.
+Immunoglobulin levels were subsequently investigated and showed elevated IgG antibodies. A K/L free ratio was elevated to 94.7. A myeloma flow cytometry exhibited an IgG kappa monoclonal-gammopathy. Finally, a CT-guided bone marrow biopsy from the iliac crest was obtained, confirming an IgG kappa multiple myeloma with an 80% proportion of plasma cells (DS 2A, ISS 3).
+The patient was started on steroids and chemotherapy with daratumumab, however his condition was complicated by septic shock, which led to admission to the ICU followed by endotracheal intubation, multi-organ failure and eventual palliative care.
+------------------------------------------------------------
+
+Title: Acute Liver Injury Induced by Sitagliptin: Report of Two Cases and Review of Literature
+Label: liver
+Score: 0.2268
+Full Text:
+The first case was a 58-year-old male with poorly controlled type 2 diabetes mellitus and hyperlipidemia who experienced a six-fold increase in his serum alanine aminotransferase (ALT) and aspartate aminotransferase (AST) levels from baseline. The patient had been taking pravastatin and ezetimibe for a few years for hyperlipidemia. Sitagliptin was recently added to the patient's medical regimen for better control of his diabetes. After initiating sitagliptin, the patient's ALT and AST increased gradually over a period of six months. Work up was done to find the possible cause of the abnormal liver function tests (LFTs). Hepatitis serologies were negative. An abdominal sonogram was also negative for gallstones. In the absence of any pathological cause, a diagnosis of drug-induced liver injury was made. All medications were discontinued and LFTs were done on regular follow-up visits. After discontinuing sitagliptin, pravastatin, and ezetimibe, the patient's ALT and AST returned to baseline levels. Resumption of pravastatin and ezetimibe was not associated with the elevation in ALT and AST levels. When we rechallenged the patient with sitagliptin, we observed a five-fold increase in the levels of serum ALT and AST from the baseline that became normal after discontinuation of sitagliptin. The second case was a 44-year-old female with type 2 diabetes who experienced a more than ten-fold elevation in ALT and AST levels after six months of sitagliptin therapy. Further workup revealed a negative hepatitis B-surface antigen with a normal liver sonogram. The patient's ALT and AST levels returned to normal after discontinuing sitagliptin, pioglitazone, and rosuvastatin. Resumption of pioglitazone and rosuvastatin was not associated with elevation in ALT and AST levels. The patient refused the rechallenge with sitagliptin.
+------------------------------------------------------------
+
+Title: Analysis of Treatment of 3 Patients with Acute-on-Chronic Liver Failure
+Label: liver
+Score: 0.2240
+Full Text:
+Male, 52 years old, had a history of hepatitis B for more than 10 years without regular treatments. The patient often drinks alcohol, and the average amount is around 250 g each time. The patient started to feel malaise and fatigue, abdominal distension on January 12, 2013, but the symptoms were largely ignored at that time. Five days ago, after drinking 250–300 g of alcohol, the patient suffered from significantly increased fatigue, together with poor appetite, yellow urine, and jaundice. The patient started the treatment in our hospital on January 19, 2013. Outpatient tests for liver function showed ALT 771 U/L, AST 608 U/L, TBIL 176.5 μmol/L, and DBIL 102.7 μmol/L, while hepatitis B virus markers showed HBsAg+, HBeAb+, HBcAb+, and HBV-DNA 1.86 × 106 IU/L. After admission, the patient received a series of treatments, including entecavir antihepatitis B virus therapy, liver protection, eliminating jaundice and reducing enzyme activity treatment, immune regulation, and complication prevention. The review of liver function on January 28, 2013, indicated ALT 465 U/L, AST 504 U/L, and TBIL 239.5 μmol/L, showing the rapid progression of disease. With the consent of the patient, he was treated with peripheral injection of the umbilical blood stem cells (UC-MSCs mononuclear cells 37.4 × 109/ml, flow cytometry CD34+ and CD33+ stem cells 8.9 × 106/ml with a total input volume of 40 ml). The relevant tests were performed regularly after the infusion, including ALT, ALB, TBIL, and PTA. The reexamination for liver function on February 7, 2013, showed ALT 307 U/L, AST 446 U/L, and TBIL 265.3 μmol/L, which indicated that the disease progression was significantly advanced. On February 12, the review of liver function revealed ALT 265 U/L, AST 372 U/L, and TBIL 308.1 μmol/L. With the progression of the patient's health condition, the follow-up treatment was conducted. The patient was given bilirubin adsorption treatment for 2 times, while the effect is still poor, and the family abandoned the treatment and discharged ().
+------------------------------------------------------------
+
+=== CLINICALBERT RESULTS ===
+
+Title: Phlegmonous colitis: another source of sepsis in cirrhotic patients?
+Label: liver
+Score: 0.9192
+Full Text:
+A 43 year-old alcoholic male presented at the Emergency Department with diffuse abdominal pain. The patient had been previously diagnosed with Child C cirrhosis, and suffered one prior episode of upper GI bleeding. On admission, the patient was hemodynamically stable, with a distended and diffusely painful abdomen, but no signs of peritonitis. Blood tests showed a mild inflammatory syndrome. CT scan revealed a liver with cirrhotic aspect, as well as all classical signs of portal hypertension, including ascites, splenomegaly and repermeabilization of the umbilical vein. There was a marked thickening of the large bowel, predominantly on the ascending and transverse colon (Figure ). Hemocultures were positive for Enterococcus faecalis, and the initial antibiotic regimen, consisting of ceftriaxone and metronidazole IV, was replaced by ertapenem 1 × 1 G/day IV. The patient did well and was discharged home ten days after his admission.
+------------------------------------------------------------
+
+Title: Pancreatic mucinous cystic neoplasm with sarcomatous stroma metastasizing to liver: a case report and review of literature
+Label: liver
+Score: 0.9114
+Full Text:
+A 46-year-old man presented with persistent epigastric and right upper quadrant pain. Endoscopic ultrasound studies revealed multiple cysts in the pancreas (Figures A,B). Computed tomography (Figure C) of the abdomen showed a large mass in the neck and body of the pancreas measuring 6.8 × 5.7 cm in cross-section, consistent with a cystic mass with internal hemorrhage. In addition, a 1.2 cm cystic mass in the pancreatic body and three adjacent cystic masses in the pancreatic tail measuring 2.3, 1.7, and 1.4 cm were identified. No pancreatic ductal dilatation was seen.
+------------------------------------------------------------
+
+Title: A rare cause of ascites: pseudomyxoma peritonei and a review of the literature
+Label: heart
+Score: 0.9032
+Full Text:
+A 75-year-old gentleman was referred to outpatient gastroenterology services due to a 3-month history of weight loss, abdominal pain, and abdominal distension. His past medical history was significant for atrial fibrillation, hypertension, bilateral knee replacements, and obstructive sleep apnoea. On presentation to the outpatient clinic, the patient appeared cachectic with marked abdominal distension. The patient denied significant alcohol consumption and a thorough history ruled out any risk factors for liver disease. He did, however, admit to increasing lethargy and malaise. Examination confirmed generalized muscle wasting; abdominal palpation revealed a huge epigastric mass and abdominal distension consistent with ascites. No signs of chronic liver disease were seen.
+------------------------------------------------------------
+
+Title: Phlegmonous colitis: another source of sepsis in cirrhotic patients?
+Label: liver
+Score: 0.9019
+Full Text:
+A 70 year-old male presented at the Emergency Department with acute abdominal pain and hypotension. Medical history was positive for Child B cirrhosis, hepatitis C, oesophageal varices, and diabetes; he previously suffered one episode of right colitis of unknown origin that responded well to a treatment of ceftriaxone and metronidazole. On admission, the patient was acutely ill, with a severe inflammatory syndrome, and was transferred to the Intensive Care Unit for resuscitation. CT scan showed a cirrhotic liver, ascites in low quantity, and an aspect of pancolitis with a thickened and oedematous wall (Figure ). Hemocultures were positive for Enterococcus and Streptococcus bovis. The patient was treated with a combination of amoxicilline-clavulanic acid and gentamicine, with rapid improvement in both clinical and biological signs of inflammation. The patient was discharged on day 15 after his admission.
+------------------------------------------------------------
+
+Title: Pylephlebitis-induced acute liver failure: A case report and review of literature
+Label: liver
+Score: 0.9015
+Full Text:
+A 42-year-old male with no past medical history presented with a three-day history of right upper quadrant abdominal pain and altered mental status.
+Three-day history of right upper quadrant abdominal pain and altered mental status.
+Non-contributory.
+Non-contributory.
+In the emergency department, he was visibly jaundiced. Vitals were significant for fever of 38.5° C or 101.4° F, tachycardia at 135 beats-per-minute, and hypotension with blood pressure of 88/48 mmHg.
+Initial laboratory tests were normal except for leukocytosis of 22.2 ×103/μL (Ref: 4.5-11.0 ×103/μL) and elevated lactic acid at 4.1 mmol/L (Ref: 0.5-2.0 mmol/L).
+Due to concern of sepsis, broad-spectrum antibiotics were started, along with fluid resuscitation. However, a computed tomography (CT) scan of the abdomen and pelvis with intravenous (IV) contrast did not reveal any signs of infection or evidence of cirrhosis. Additional investigations for a source of infection including chest X-ray, urinalysis, right upper quadrant ultrasound, magnetic resonance cholangiopancreatography, and transthoracic echocardiogram failed to reveal an infective source.
+------------------------------------------------------------
+
+=== SIMILARITY SUMMARY ===
+A 43 year-old alcoholic male presented at the Emergency Department with diffuse abdominal pain. The patient had previously diagnosed with Child C cirrhosis, and suffered one prior episode of upper GI bleeding. On admission, the patient was hemodynamically stable, with a distended and diffusely painful abdomen, but no signs of peritonitis. Blood tests showed a mild inflammatory syndrome. CT scan revealed a liver with cirrhotic aspect, as well as all classical signs of portal hypertension, including ascites, splenomegaly and repermeabilization of the umbilical vein. There was a marked thickening of the large bowel, predominantly on the ascending and transverse colon (Figure ). Hemocultures were positive for Enterococcus faecalis, and the initial antibiotic regimen, consisting of ceftriaxone and metronidazole IV, was replaced by ertapenem 1  1 G/day IV. The patient did well and was discharged home ten days after his admission.
